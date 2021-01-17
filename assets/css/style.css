@@ -56,7 +56,7 @@ h6 {
     background-color: transparent;
     margin-bottom: 10px;
 }
-.nav-btn:hover {
+.link-btn:hover {
     color:#d3d3d3;
     border: 1px solid #d3d3d3;
     outline: none;
