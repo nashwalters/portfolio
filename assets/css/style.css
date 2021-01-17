@@ -36,6 +36,40 @@ h6 {
     color:white;
 }
 /*Jumbotron Styles End*/
+/*links / Button Styles*/
+.nav-btn {
+    width: 170px;
+    color: white;
+    border: 1px solid white;
+    outline: none;
+    background-color: transparent;
+}
+.nav-btn:hover {
+    color:orange;
+    border: 1px solid orange;
+    outline: none;
+}
+.link-btn {
+    width: 160px;
+    border: 1px solid orange;
+    outline: none;
+    background-color: transparent;
+    margin-bottom: 10px;
+}
+.nav-btn:hover {
+    color:#d3d3d3;
+    border: 1px solid #d3d3d3;
+    outline: none;
+}
+a.nav-link {
+    color: orange;
+}
+.link {
+    color: orange !important;
+}
+.link:hover {
+    color: #d3d3d3 !important;
+}
 /*Skills section*/
 .img-shape {
     border-radius: 50%;
