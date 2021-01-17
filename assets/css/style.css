@@ -47,3 +47,23 @@ h6 {
     width: 130px;
 }
 /*Skills section end*/
+/*Portfolio section*/
+.main-title {
+    text-align: center;
+}
+#gallery img{
+    height: 240px;
+    width: 240px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    box-shadow:1px 1px 3px 3px #888888;
+}
+/*Portfolio section end*/
+/*Contact section*/  
+.contact-info-items{
+    color: lightgray;
+    list-style-type: none;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+/*Contact section end*/
