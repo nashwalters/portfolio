@@ -1,0 +1,9 @@
+/*General Styles*/
+body {
+    margin: 0;
+    background-color: #141414;
+}
+h3 {
+    color:orange;
+    margin-top: 10px;
+}
