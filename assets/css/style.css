@@ -3,9 +3,23 @@ body {
     margin: 0;
     background-color: #141414;
 }
+p {
+    color: #d3d3d3;
+    text-align: justify;
+}
 h3 {
     color:orange;
     margin-top: 10px;
+}
+h6 {
+    color: orange;
+    margin-top: 10px;
+}
+.text {
+    color: white;
+}
+.bg-color {
+    background-color: transparent;
 }
 /*Jumbotron Styles - index.html*/
 .jumbotron {
