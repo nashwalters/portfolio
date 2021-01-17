@@ -45,7 +45,7 @@ This is a simple portfolio using:
 
 <details>
   <summary>Website at 992px</summary>
-  <img src="assets/img/screencapture-992.png" alt= "screenshot of site at 992px">
+  <img src="assets/img/screencapture-992px.png" alt= "screenshot of site at 992px">
 </details>
 <details>
   <summary>Website at 768px</summary>
@@ -58,7 +58,7 @@ This is a simple portfolio using:
 
 ## Credits
 
-* Carleton University Coding Bootcamp team- Special thanks to Central Grader Heather S.
+* Carleton University Coding Bootcamp team
 * [Adam Simonini](https://github.com/adamsimonini)
 
 ## Contact
