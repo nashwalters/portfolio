@@ -36,3 +36,14 @@ h6 {
     color:white;
 }
 /*Jumbotron Styles End*/
+/*Skills section*/
+.img-shape {
+    border-radius: 50%;
+}
+.logo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 130px;
+    width: 130px;
+}
+/*Skills section end*/
