@@ -7,3 +7,18 @@ h3 {
     color:orange;
     margin-top: 10px;
 }
+/*Jumbotron Styles - index.html*/
+.jumbotron {
+    background-image: url("../img/jumbo.gif");
+    background-position: center;
+    background-size:cover;
+}
+.vertical-center {
+    text-align: center;
+    padding: 95px 0px;
+}
+.display {
+    font-weight: 500;
+    color:white;
+}
+/*Jumbotron Styles End*/
