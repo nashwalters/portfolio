@@ -38,14 +38,14 @@ This is a simple portfolio using:
 
 ## Screenshots
 <p align="center"> 
-<img src="" alt= "screenshot of my portfolio" width= "500px">
+<img src="assets/img/screencapture-landing.png" alt= "screenshot of my portfolio" width= "500px">
 </p>
 
 #### Click on the arrow to dropdown images at various screen sizes.
 
 <details>
-  <summary>Website at 922px</summary>
-  <img src="" alt= "screenshot of site at 922px">
+  <summary>Website at 992px</summary>
+  <img src="assets/img/screencapture-992.png" alt= "screenshot of site at 992px">
 </details>
 <details>
   <summary>Website at 768px</summary>
