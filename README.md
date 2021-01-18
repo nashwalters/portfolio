@@ -19,6 +19,8 @@ The new features added are:
 * Downloadable resume - A button was added in the About section that opens a pdf version on my resume in a new window.
 * A skills section - A skills section was added to showcase the technology and frameworks that I have learnt and implemented.
 
+In addtion links to my deployed portfolio and github pages have been added to my linkedin profile in the contact section.
+
 ## Technology
 
 This is a simple portfolio using:
