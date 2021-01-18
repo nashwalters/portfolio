@@ -19,6 +19,8 @@ The new features added are:
 * Downloadable resume - A button was added in the About section that opens a pdf version on my resume in a new window.
 * A skills section - A skills section was added to showcase the technology and frameworks that I have learnt and implemented.
 
+In addtion links to my deployed portfolio and github pages have been added to my linkedin profile in the contact section.
+
 ## Technology
 
 This is a simple portfolio using:
@@ -30,7 +32,7 @@ This is a simple portfolio using:
 
 * Github page: [https://nashwalters.github.io/portfolio/](https://nashwalters.github.io/portfolio/)
 
-* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/portfolio/
+* To open in a new window, copy and paste: https://<span></span>nashwalters.github.io/portfolio/
 
 #### View my first portfolio
 * Github page: [https://nashwalters.github.io/rmd-portfolio/](https://nashwalters.github.io/rmd-portfolio/)
@@ -45,7 +47,7 @@ This is a simple portfolio using:
 
 <details>
   <summary>Website at 992px</summary>
-  <img src="assets/img/screencapture-992.png" alt= "screenshot of site at 992px">
+  <img src="assets/img/screencapture-992px.png" alt= "screenshot of site at 992px">
 </details>
 <details>
   <summary>Website at 768px</summary>
@@ -58,7 +60,7 @@ This is a simple portfolio using:
 
 ## Credits
 
-* Carleton University Coding Bootcamp team- Special thanks to Central Grader Heather S.
+* Carleton University Coding Bootcamp team
 * [Adam Simonini](https://github.com/adamsimonini)
 
 ## Contact
