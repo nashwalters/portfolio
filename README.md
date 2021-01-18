@@ -32,7 +32,7 @@ This is a simple portfolio using:
 
 * Github page: [https://nashwalters.github.io/portfolio/](https://nashwalters.github.io/portfolio/)
 
-* To open in a new window, copy and paste: http://<span></span>nashwalters.github.io/portfolio/
+* To open in a new window, copy and paste: https://<span></span>nashwalters.github.io/portfolio/
 
 #### View my first portfolio
 * Github page: [https://nashwalters.github.io/rmd-portfolio/](https://nashwalters.github.io/rmd-portfolio/)
